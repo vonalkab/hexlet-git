@@ -1,1 +1,0 @@
-Scientia potentia est
