@@ -1,2 +1,2 @@
-git is awesome!
+git is awesome!.
 experiment with amend
